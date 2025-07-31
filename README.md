@@ -41,7 +41,7 @@ In this project, I simulated the full lifecycle of a support ticket in osTicket,
   - I reviewed the issue reported by the end user and confirmed that it qualified as "business-critical outage".
   - I updated the Help Topic to better reflect the nature of the issue.
   - Because a business-critical outage is a high-severity issue, I classified the SLA plan as Sev-A.
-  - I assigned the ticket to the Online Banking department, as the issue pertained access problems with the online banking portal.
+  - I assigned the ticket to the Online Banking department, as the issue pertained to access problems with the online banking portal.
 
 </p>
 <br />
