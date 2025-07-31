@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -18,37 +14,67 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
-<h2>Ticket Lifecycle Stages</h2>
-
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
-
-<h2>Lifecycle Stages</h2>
-
+<h2>Walkthrough</h2>
+<h3> Section 1: Submitting a Ticket as an End User </h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/fc593287-f2b0-4587-982d-99a1d46773f6" width=500/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+  - To begin the project, I simulated a real-world support request by submitting a ticket as end user "Karen" through the osTicket Support Center.
+  - I filled out the Contact Information section with Karen's credentials.
+  - I selected "Report a Problem" as the help topic, indicating that this issue is related to a technical issue.
+  - In the ticket details, I reported an issue where users were unable to access the online banking portal.
+
+</p>
+<br />
+
+<h3> Section 2: Categorizing the Ticket as Support Staff </h3>
+<p>
+<img src="https://github.com/user-attachments/assets/7409e892-b031-44fb-868e-2112272590a7" width=800 />
+</p>
+<p>
+  
+  - Next, I logged into the Support Center as staff user "John", who is responsible for reviewing and managing incoming supprt tickets.
+  - I reviewed the issue reported by the end user and confirmed that it qualified as "business-critical outage".
+  - I updated the Help Topic to better reflect the nature of the issue.
+  - Because a business-critical outage is a high-severity issue, I classified the SLA plan as Sev-A.
+  - I assigned the ticket to the Online Banking department, as the issue pertained access problems with the online banking portal.
+
+</p>
+<br />
+
+<h3> Section 3: Assigning the ticket to a Specialist </h3>
+<p>
+<img src="https://github.com/user-attachments/assets/2d8fbbd4-3c2b-47e4-a2bc-69c5cc211213" />
+</p>
+<p>
+
+  - After the ticket was routed to the Online Banking department, I logged in as staff member "Jane Doe", a member of that team, to review the ticket.
+  - After reviewing the ticket, I assigned it to myself to begin addressing the issue.
+
+</p>
+<br />
+
+<h3> Section 4: Updating the end user and Resolving the issue </h3>
+<p>
+<img src="https://github.com/user-attachments/assets/3b852f5c-fed1-49c8-b1ae-3cc9d1b4683f" width=800 />
+</p>
+<p>
+
+  - Given the severity of the issue, I propmptly updated the end user "Karen" with my initial diagnosis, explaining what I suspected to be the root cause of the issue.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/baaf125c-6e5d-444f-830c-7ac44712f6e6" width=800/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  - After determining the cause, I simulated real-world ticket resolution by updating the end user with the actions that were taken to resolve the issue.
+  - I closed the ticket after confirming the issue was resolved and no further action was needed.
+
+
