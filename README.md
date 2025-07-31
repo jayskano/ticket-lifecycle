@@ -25,7 +25,7 @@ In this project, I simulated the full lifecycle of a support ticket in osTicket,
 
   - To begin the project, I simulated a real-world support request by submitting a ticket as end user "Karen" through the osTicket Support Center.
   - I filled out the Contact Information section with Karen's credentials.
-  - I selected "Report a Problem" as the help topic, indicating that this issue is related to a technical issue.
+  - I selected "Report a Problem" as the help topic, indicating that this issue was related to a technical issue.
   - In the ticket details, I reported an issue where users were unable to access the online banking portal.
 
 </p>
