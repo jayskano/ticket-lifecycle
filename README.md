@@ -46,7 +46,7 @@ In this project, I simulated the full lifecycle of a support ticket in osTicket,
 </p>
 <br />
 
-<h3> Section 3: Assigning the ticket to a Specialist </h3>
+<h3> Section 3: Assigning the Ticket to a Specialist </h3>
 <p>
 <img src="https://github.com/user-attachments/assets/2d8fbbd4-3c2b-47e4-a2bc-69c5cc211213" />
 </p>
@@ -58,7 +58,7 @@ In this project, I simulated the full lifecycle of a support ticket in osTicket,
 </p>
 <br />
 
-<h3> Section 4: Updating the end user and Resolving the issue </h3>
+<h3> Section 4: Updating the End User and Resolving the Issue </h3>
 <p>
 <img src="https://github.com/user-attachments/assets/3b852f5c-fed1-49c8-b1ae-3cc9d1b4683f" width=800 />
 </p>
