@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+In this project, I simulated the full lifecycle of a support ticket in osTicket, including intake, triage, assignment, and resolution.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -76,5 +76,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   - After determining the cause, I simulated real-world ticket resolution by updating the end user with the actions that were taken to resolve the issue.
   - I closed the ticket after confirming the issue was resolved and no further action was needed.
+
+</p>
+<br />
+
+<h2>Conclusion</h2>
+
+Working through this ticket lifecycle helped me better understand the process of how help desk operations function in a professional environment. From identifying critical issues to communicating with end users and assigning tickets based on team structure, this project has better prepared me for real-world IT support workflows.
 
 
